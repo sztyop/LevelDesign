@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_game.unity
+- path: Assets/1_Stage_GreyBox/_greybox.unity
   isLoaded: 1
   isActive: 1
